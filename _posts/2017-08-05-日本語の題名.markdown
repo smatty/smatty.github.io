@@ -8,10 +8,10 @@ categories: test
 
 ちなみに以下のページを持っているのでリンクもテストする。
 
-## YouTube(主にゲーム) [YouTube-url]
-## はてなブログ [hatena-blog]
-## Github [github-url]
+- YouTube(主にゲーム) [YouTube]
+- はてなブログ [hatena]
+- Github [Github]
 
-[YouTube-url]: https://www.youtube.com/channel/UCIyq7UuJa0v_1qBS_qzjwDg
-[hatena-blog]:   http://shinm.hatenablog.com/
-[github-url]: https://github.com/smatty
+[YouTube]: https://www.youtube.com/channel/UCIyq7UuJa0v_1qBS_qzjwDg
+[hatena]:   http://shinm.hatenablog.com/
+[github]: https://github.com/smatty
