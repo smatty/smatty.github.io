@@ -8,9 +8,9 @@ categories: test
 
 ちなみに以下のページを持っているのでリンクもテストする。
 
-YouTube(主にゲーム) [YouTube-url]
-はてなブログ [hatena-blog]
-github [github-url]
+## YouTube(主にゲーム) [YouTube-url]
+## はてなブログ [hatena-blog]
+## Github [github-url]
 
 [YouTube-url]: https://www.youtube.com/channel/UCIyq7UuJa0v_1qBS_qzjwDg
 [hatena-blog]:   http://shinm.hatenablog.com/
