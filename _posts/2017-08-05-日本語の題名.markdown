@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "日本語の題名はどうなるかテスト"
+date:   2017-08-05 08:00:00 +0900
+categories: test
+---
+日本語で書いてみるテスト。
+
+ちなみに以下のページを持っているのでリンクもテストする。
+
+YouTube(主にゲーム) [YouTube-url]
+はてなブログ [hatena-blog]
+github [github-url]
+
+[YouTube-url]: https://www.youtube.com/channel/UCIyq7UuJa0v_1qBS_qzjwDg
+[hatena-blog]:   http://shinm.hatenablog.com/
+[github-url]: https://github.com/smatty
